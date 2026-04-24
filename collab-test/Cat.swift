@@ -8,6 +8,6 @@ import SwiftUI
 
 struct Cat: View {
     var body: some View {
-        Text("Kitty :D")
+        Text("i love kasa jizo")
     }
 }
